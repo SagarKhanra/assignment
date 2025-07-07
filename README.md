@@ -107,4 +107,3 @@ This is the backend API server for the User Registration app.
 ## Notes
 - Data is stored in memory and will be lost when the server restarts.
 - Make sure the backend is running before using the frontend.
-
